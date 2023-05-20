@@ -32,7 +32,7 @@ print('sub1:',sub1,'sub2:',sub2,'sub3:',sub3,'sum:',sum,'avg:',avg)
 #23.0 45.0 67.0
 #<class 'float'> <class 'float'> <class 'float'> 
 
-
+# 사각형 그리기
 import turtle as t
 t.shape('turtle')
 t.color('green','skyblue')
