@@ -28,8 +28,7 @@ sum = sub1 + sub2 + sub3
 avg = (sum) / 3
 print(avg)
 print('sub1:',sub1,'sub2:',sub2,'sub3:',sub3,'sum:',sum,'avg:',avg)
-
-#23.0 45.0 67.0
+#23.0 45.0 67.0 실수형인 것을 볼 수 있다. 
 #<class 'float'> <class 'float'> <class 'float'> 
 
 # 사각형 그리기

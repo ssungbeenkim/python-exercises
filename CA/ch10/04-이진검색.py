@@ -2,9 +2,7 @@
 # 반복문의 활용 
 
 # 해보기 1 - 1~100 수 중 2의 배수이거나 7의 배수인 경우의 합
-
 # # while
-
 sum = 0
 i = 0
 n = int(input('type number:'))
@@ -57,12 +55,12 @@ i=1
 while True:
     m = (a+b)//2
     print(i,'번째','m:',m)
-    if m==n:
+    if m == n:
         print('성공',i,'번만에 찾았다.')
         break
-    elif n>m:
+    elif n > m:
         a = m
-    elif m>n:
+    elif m > n:
         b = m
     i += 1
 

@@ -2,4 +2,4 @@
 
 ### memo
 
-ctrl + option + p 실행
+- vscode ctrl + option + p로 실행

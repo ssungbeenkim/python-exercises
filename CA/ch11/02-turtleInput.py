@@ -18,7 +18,7 @@ def right():
     t.right(30)
     t.forward(10)
 
-screen=t.getscreen() # Important
+screen=t.getscreen() # turtle의 screen을 가져온다. 
 
 screen.onkeypress(left,"Left")
 screen.onkeypress(right,"Right")

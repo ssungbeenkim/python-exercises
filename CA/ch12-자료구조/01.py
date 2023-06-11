@@ -49,11 +49,11 @@ print(a[1])
 print(a.keys()) # dict_keys(['a', 1])
 print(a.values()) #dict_values(['dkfj', 'aslkdfj']) 
 
-del a['a'] 
+del a['a'] # 키를 통한 삭제
 print(a)
 
 b = {'c':'blah',2:'sldkjf'}
-a.update(b) #
+a.update(b) # a에 b를 추가
 print(a)
 
 # 4. set
@@ -64,6 +64,6 @@ b = {2,3,4,5}
 
 print(a&b) # {2, 3, 4} 교집합
 print(a|b) # {1, 2, 3, 4, 5} 합집합
-print(a-b) # {1} 
+print(a-b) # {1} 차집합
 print(a^b) # {1, 5} exclusive 배타
 

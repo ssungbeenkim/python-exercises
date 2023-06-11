@@ -1,6 +1,6 @@
 from turtle import *
 color('red', 'yellow')
-begin_fill()
+begin_fill() # 색 채우기 
 while True:
     forward(200)
     left(170)
@@ -8,4 +8,4 @@ while True:
         break
 end_fill()
 done()
-#  turtle은 그래픽을 그리는 모듈이다.
+#  turtle은 그래픽을 그리는 모듈이다.   

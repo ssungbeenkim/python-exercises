@@ -1,4 +1,6 @@
 from turtle import *
+
+# 색상을 바꾸면서 그리기 
 shape('turtle')
 pensize(10)
 colormode(255) #0~255
