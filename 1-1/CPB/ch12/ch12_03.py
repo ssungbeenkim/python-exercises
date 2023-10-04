@@ -1,12 +1,12 @@
 a = int(input("숫자를 입력하세요: "))
 b = int(input("숫자를 입력하세요: "))
-result = a + b;
+result = a + b
 print(a, "+", b, "=", result)
-result = a - b;
+result = a - b
 print(a, "-", b, "=", result)
-result = a * b;
+result = a * b
 print(a, "*", b, "=", result)
-result = a / b;
+result = a / b
 print(a, "/", b, "=", result)
 
 # 숫자를 입력하세요: 70
