@@ -1,6 +1,3 @@
-from pydoc import Doc
-
-
 class Animal:
     def __init__(self, name):
         self.name = name
