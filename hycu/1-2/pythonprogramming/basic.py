@@ -72,4 +72,4 @@ print(now.hour)
 # answer = input("What is your name?")
 # print(answer)
 
-print(rd.randint(1, 3))
+print(rd.randint(1, 3)) # 1 ~ 3 사이의 랜덤한 정수 리턴
